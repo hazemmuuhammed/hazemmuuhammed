@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [CuppaCart](https://github.com/ShehabM0/CuppaCart)
 
-- 🌱 I’m currently learning **Flutter, Redux**
+- 🌱 I’m currently learning **Reactnative, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hazemmuuhammed](https://github.com/hazemmuuhammed)
 
