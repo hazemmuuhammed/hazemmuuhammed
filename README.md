@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/hazemmuuhammed" target="blank"><img src="https://img.shields.io/twitter/follow/hazemmuuhammed?logo=twitter&style=for-the-badge" alt="hazemmuuhammed" /></a> </p>
 
-- 🔭 I’m currently working on [CuppaCart](https://github.com/ShehabM0/CuppaCart)
-
-- 🌱 I’m currently learning **Reactnative, Redux**
+- 🔭 I’m currently working on [Lambda]
+- 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hazemmuuhammed](https://github.com/hazemmuuhammed)
 
